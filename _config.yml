@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Markus Eger's WebSite"
 title_separator          : "-"
 name                     : "Markus Eger"
-description              : "PhD student, "
+description              : ""
 url                      : "http://yawgmoth.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -61,11 +61,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Markus Eger"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD student, narrative researcher, Game AI tinkerer"
+  location         : "Raleigh, NC"
+  email            : "meger@ncsu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -73,8 +73,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "yawgmoth"
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
