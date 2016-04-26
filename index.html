@@ -5,7 +5,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for page in {{ site.pages | sort: 'frontpageorder' }} %}
+{% for page in site.pages %}
 {% if page.categories contains 'frontpage' %}
 <h3><a href="{{page.permalink}}">{{page.title}}</a></h3>
 {% if page.frontpage %}
