@@ -197,7 +197,7 @@ tags:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-categories: [project, research]
+categories: [project, research, frontpage]
 
 # HTML Compression
 # - http://jch.penibelst.de/

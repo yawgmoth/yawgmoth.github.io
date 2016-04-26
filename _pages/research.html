@@ -1,0 +1,19 @@
+---
+title: "Research"
+layout: single
+excerpt: "Information about my research"
+sitemap: true
+permalink: /research/
+frontpageorder: 3
+categories: [frontpage]
+---
+
+{% capture researchinclude %}{% include research.md %}{% endcapture %}
+{{ researchinclude | markdownify }}
+
+{% for page in site.pages %}
+{% if page.categories contains 'research' %}
+<h2><a href="{{page.permalink}}">{{page.title}}</a></h2>
+{{page.excerpt}}
+{% endif %}
+{% endfor %}
