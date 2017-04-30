@@ -18,6 +18,10 @@ All code of our implementation is freely available in a [github repository](http
 We have also obtained over 2000 game logs from 240 players that can be used with the aforementioned capability to watch them as a replay. They can also provide a basis for the development of other AIs. The game log files are available in their own [github repository](https://github.com/yawgmoth/HanabiData) that includes more explanation of what data they contain.
 
 
+To see a live demonstration of the implementation, where you can also watch any of the over 2000 game logs in the data set as a replay, click [here](https://go.ncsu.edu/hanabi).
+
+You can also watch a short video introduction to our UI and implementation [here](https://www.youtube.com/watch?v=maFiWnamdBs).
+
 
 [1] Osawa, Hirotaka. "Solving Hanabi: Estimating Hands by Opponent's Actions in Cooperative Game with Incomplete Information." Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence. 2015.
 
